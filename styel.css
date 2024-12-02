@@ -1,0 +1,20 @@
+body{
+
+
+  background-color: rgba(122, 199, 191, 0.537);
+}
+
+
+.mody{
+
+    height: 100vh;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+
+
+
+
+}
+
